@@ -1,7 +1,7 @@
 
-var to = 'My iu dấu';
+var to = 'Gia LinhLinh';
 var gift_url = '';
-var gift_image_url = 'My.jpg';
+var gift_image_url = 'GiaLinh.jpg';
 
 
 
