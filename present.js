@@ -1,5 +1,5 @@
 
-var to = 'Gia LinhLinh';
+var to = 'Gia Linh';
 var gift_url = '';
 var gift_image_url = 'GiaLinh.jpg';
 
